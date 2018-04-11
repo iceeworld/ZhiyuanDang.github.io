@@ -19,8 +19,11 @@ News
 Firends
 ------
 [Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)
+
 [De Xie](https://shadowxiede.github.io/)(Xidian Unversity)
+
 [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)
+
 [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)
 
 CV
