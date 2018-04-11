@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in School of Electronic Engineering, Xidian University, 2013
-
 * Ph.D in School of Electronic Engineering, Xidian University, 2017 (current)
 
 Work experience
