@@ -28,4 +28,4 @@ Firends
 
 CV
 ------
-You can see my CV form [this page](https://zhiyuandang.github.io/cv/).
+You can see my CV from [this page](https://zhiyuandang.github.io/cv/).
