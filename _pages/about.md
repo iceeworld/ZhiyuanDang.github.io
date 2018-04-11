@@ -14,14 +14,14 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 News
 ------
 * IJCAI 2018
+* TNNLS 2018
 
-Recent Publications
+Firends
 ------
-**Journal**
-* NONE
-
-**Conference**
-* NONE
+[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)
+[De Xie](https://shadowxiede.github.io/)(Xidian Unversity)
+[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)
+[Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)
 
 CV
 ------
