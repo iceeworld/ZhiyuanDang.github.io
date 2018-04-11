@@ -47,4 +47,4 @@ Example: editing a markdown file for a talk
 
 CV
 ------
-You can see my CV form [this website](https://zhiyuandang.github.io/cv/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can see my CV form [this page](https://zhiyuandang.github.io/cv/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
