@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiyuan Dang"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Zhiyuan Dang"
 description              : &description "personal description"
