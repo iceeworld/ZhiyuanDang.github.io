@@ -15,6 +15,13 @@ News
 ------
 * IJCAI 2018
 
+Recent Publications
+------
+**Journal**
+* NONE
+
+**Conference**
+* NONE
 
 CV
 ------
