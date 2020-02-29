@@ -13,7 +13,7 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 News
 ------
-* Feb. 24, one paper was accepted to CVPR 2020 (~22% acceptance rate)
+* Feb. 24, one paper was accepted to CVPR 2020 (~22% acceptance rate).
 
 
 Firends
@@ -26,6 +26,3 @@ Firends
 
 [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)
 
-CV
-------
-You can see my CV from [this page](https://zhiyuandang.github.io/cv/).
