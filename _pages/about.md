@@ -13,7 +13,7 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 News
 ------
-* one paper was accepted to CVPR 2020 (~22% acceptance rate)
+* Feb.24, one paper was accepted to CVPR 2020 (~22% acceptance rate)
 
 
 Firends
