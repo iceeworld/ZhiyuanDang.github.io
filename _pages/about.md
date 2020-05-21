@@ -11,20 +11,16 @@ redirect_from:
 I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.edu.cn/) at Xidian University. My supervisor is Prof. [Heng Huang](https://www.pitt.edu/~heh45/index.html). My research interests are Machine Learning and Pattern Recognition. 
 
 
-News
-------
+## News
 * Feb. 24, one paper was accepted to CVPR 2020 (~22% acceptance rate).
 
-# Recent Publications
-## Journal
-------
-## Conference
-------
+## Recent Publications
+### Journal
+### Conference
 **Z. Dang**, C. Deng, X. Yang, H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (**CVPR**), 2020.
 
 
-Firends
-------
+## Firends
 [Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)
 
 [De Xie](https://shadowxiede.github.io/)(Xidian Unversity)
