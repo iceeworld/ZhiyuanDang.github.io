@@ -19,10 +19,10 @@ Recent Publications
 ------
 
 ### Journal
----
+------
 
 ### Conference
----
+------
 **Z. Dang**, C. Deng, X. Yang, H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (**CVPR**), 2020.
 
 
