@@ -12,8 +12,8 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 
 # News
-* Feb. 24, one paper was accepted to CVPR 2020 (~22% acceptance rate).
-
+* Feb. 24, 2020, one paper was accepted to CVPR 2020 (~22% acceptance rate).
+* May. 16, 2020, one paper was accepted to KDD2020 Applied Data Science Track.
 # Recent Publications
 ## Journal
 
