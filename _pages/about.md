@@ -19,7 +19,7 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 ## Journal
 
 ## Conference
-B. Gu, **Zhiyuan Dang**, X. Li and H. Huang. Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data, In 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2020.
+B. Gu, **Zhiyuan Dang**, X. Li and H. Huang. Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data, In 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.
 
 **Zhiyuan Dang**, C. Deng, X. Yang, H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (**CVPR**), 2020.
 
