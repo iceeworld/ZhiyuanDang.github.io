@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.edu.cn/) at Xidian University. My supervisor is Prof. [Heng Huang](https://www.pitt.edu/~heh45/index.html). My research interests are Machine Learning and Pattern Recognition. 
+I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.edu.cn/) at Xidian University. My supervisor is Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/). My research interests are Machine Learning and Pattern Recognition. 
 
 
 # News
