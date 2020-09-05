@@ -12,13 +12,13 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 
 # News
-* Sep. 05, 2020, one paper was accepted to TPMAI.
+* Sep. 05, 2020, one paper was accepted to TPAMI.
 * May. 16, 2020, one paper was accepted to KDD2020 Applied Data Science Track.
 * Feb. 24, 2020, one paper was accepted to CVPR 2020 (~22% acceptance rate).
 
 # Recent Publications
 ## Journal
-**Zhiyuan Dang**, X. Li, B. Gu, C. Deng, H. Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPMAI**).
+**Zhiyuan Dang**, X. Li, B. Gu, C. Deng, H. Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
 
 ## Conference
 B. Gu, **Zhiyuan Dang**, X. Li and H. Huang. Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data, In 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.
