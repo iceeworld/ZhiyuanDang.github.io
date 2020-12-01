@@ -35,3 +35,4 @@ B. Gu, **Zhiyuan Dang**, X. Li and H. Huang. Federated Doubly Stochastic Kernel 
 
 [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)
 
+[Kun Wei](https://drkun.github.io/xdkunwei.github.io/)(Xidian Unversity)
