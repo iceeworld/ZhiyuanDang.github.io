@@ -20,6 +20,7 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 # Recent Publications
 ## Journal
 B. Gu, **Zhiyuan Dang**, Z. Huo, C. Deng, H. Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
+
 **Zhiyuan Dang**, X. Li, B. Gu, C. Deng, H. Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**).
 
 ## Conference
