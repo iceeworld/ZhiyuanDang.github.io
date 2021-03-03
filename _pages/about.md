@@ -12,6 +12,7 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 
 # News
+* Mar. 01, 2021, two papers were accepted to CVPR2021 (~27% acceptance rate)
 * Jan. 19, 2021, one paper was accepted to TPAMI.
 * Sep. 05, 2020, one paper was accepted to TPAMI.
 * May. 16, 2020, one paper was accepted to KDD2020 Applied Data Science Track.
@@ -30,12 +31,14 @@ B. Gu, **Zhiyuan Dang**, X. Li and H. Huang. Federated Doubly Stochastic Kernel 
 
 
 # Firends
-[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)
+[Chao Li](https://chaoli1991.github.io/)(Xidian University)
 
-[De Xie](https://shadowxiede.github.io/)(Xidian Unversity)
+[De Xie](https://shadowxiede.github.io/)(Xidian University)
 
-[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)
+[Hao Wang](https://haowang1992.github.io/)(Xidian University)
 
-[Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)
+[Jiexi Yan](https://JiexiYan.github.io)(Xidian University)
 
-[Kun Wei](https://drkun.github.io/xdkunwei.github.io/)(Xidian Unversity)
+[Kun Wei](https://drkun.github.io/xdkunwei.github.io/)(Xidian University)
+
+[Yang Xu](https://xdxuyang.github.io/)(Xidian university)
