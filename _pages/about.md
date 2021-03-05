@@ -20,14 +20,19 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 # Recent Publications
 ## Journal
-B. Gu, **Zhiyuan Dang**, Z. Huo, C. Deng, H. Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021.
+B. Gu, **Zhiyuan Dang**, Z. Huo, C. Deng and H. Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021.
 
-**Zhiyuan Dang**, X. Li, B. Gu, C. Deng, H. Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2020.
+**Zhiyuan Dang**, X. Li, B. Gu, C. Deng and H. Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2020.
 
 ## Conference
+
+**Zhiyuan Dang**, C. Deng, X. Yang, K. Wei and H. Huang. Nearest Neighbor Matching for Deep Clustering, In IEEE International Conference on Pattern Recognition and Computer Vision (**CVPR**), 2021.
+
+X. Yang, C. Deng, **Zhiyuan Dang**, K. Wei and J. Yan. Learning Semantic Alignment for Graph Convolution Network, In IEEE International Conference on Pattern Recognition and Computer Vision (**CVPR**), 2021.
+
 B. Gu, **Zhiyuan Dang**, X. Li and H. Huang. Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data, In 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.
 
-**Zhiyuan Dang**, C. Deng, X. Yang, H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (**CVPR**), 2020.
+**Zhiyuan Dang**, C. Deng, X. Yang and H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (**CVPR**), 2020.
 
 
 # Firends
