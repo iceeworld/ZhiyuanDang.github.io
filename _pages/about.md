@@ -12,6 +12,7 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 
 # News
+* Jul. 02, 2021, one paper was accepted to TNNLS.
 * Mar. 01, 2021, two papers were accepted to CVPR2021 (~27% acceptance rate)
 * Jan. 19, 2021, one paper was accepted to TPAMI.
 * Sep. 05, 2020, one paper was accepted to TPAMI.
@@ -20,6 +21,8 @@ I am a Ph.D. candidate of [School of Electronic Engineering](http://see.xidian.e
 
 # Recent Publications
 ## Journal
+X. Yang, C. Deng, **Zhiyuan Dang** and D. Tao. Deep Multi-View Collaborative Clustering. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021.
+
 B. Gu, **Zhiyuan Dang**, Z. Huo, C. Deng and H. Huang. Scaling Up Generalized Kernel Methods. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021.
 
 **Zhiyuan Dang**, X. Li, B. Gu, C. Deng and H. Huang. Large Scale Nonlinear AUC Maximization via Triply Stochastic Gradients. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2020.
